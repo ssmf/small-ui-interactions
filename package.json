@@ -1,0 +1,19 @@
+{
+  "name": "small-ui-interactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ssmf",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^9.0.0",
+    "install": "^0.13.0",
+    "npm": "^10.1.0",
+    "prettier": "^3.0.3"
+  }
+}
